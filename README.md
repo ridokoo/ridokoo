@@ -1,6 +1,6 @@
 <h1 align="center">Halo, saya Rido Siagian 👋</h1>
 <p align="center">
-  Mahasiswa Informatika di <b>Institut Teknologi Del</b> · Tertarik pada Machine Learning & Mobile Development
+  Mahasiswa Teknologi Informasi di <b>Institut Teknologi Del</b> · Tertarik pada Machine Learning & Mobile Development & Web developer
 </p>
 
 <p align="center">
